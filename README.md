@@ -21,7 +21,7 @@ Using Geometric Brownian Motion, it models daily returns based on chosen drift a
 📈 Example output: 
 Expected stock price after 252 days: 157.82 
 Probability of stock ending above $120: 90%
-![Monte Carlo Simulation Plot] (<img width="1610" height="1335" alt="MCSS Plot" src="https://github.com/user-attachments/assets/b8d4864e-0370-458b-baf0-a5899ecbb05d" />)
+<img width="1610" height="1335" alt="MCSS Plot" src="https://github.com/user-attachments/assets/b8d4864e-0370-458b-baf0-a5899ecbb05d" />
 
 
 🧠 Methods & Visualisation: 
